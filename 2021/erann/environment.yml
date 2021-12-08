@@ -1,0 +1,7 @@
+name: advent_of_code_2021
+
+dependencies:
+  - python=3.9.7
+  - pip
+  - pip:
+    
